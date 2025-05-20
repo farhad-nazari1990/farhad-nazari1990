@@ -77,5 +77,3 @@ open_to_collaboration_on:
   - "📊 Financial data analysis and actionable insights generation"
   - "🛠️ Building custom financial analytics tools and dashboards"
 
-# You can add a contact line if desired:
-# contact_preference: "🔗 Reach out via GitHub or [LinkedIn Profile URL]"
