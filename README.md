@@ -1,79 +1,15 @@
-# ╭──────────────────────────────────────────────────╮
-# │ 🤵‍♂️   Farhad Nazari        │
-# │ 🔬   Quantitative Data Scientist & Algorithmic  │
-# │ 💹   Trading Specialist                         │
-# ╰──────────────────────────────────────────────────╯
+# 💫 About Me:
+About Me:<br><br>🔭 I'm currently working on: Developing and refining quantitative trading models and algorithmic strategies for financial markets. I'm also actively consulting on freelance quant projects.<br><br>👯 I'm looking to collaborate on: Bespoke algorithmic trading strategy development, quantitative research in finance, building data-driven financial analytics tools, and open-source projects in the quantitative finance space.<br><br>🤝 I'm looking for help with: Insights or resources on cutting-edge applications of reinforcement learning in dynamic trading environments and practical uses of alternative data for alpha generation. Always keen to learn from others in these advanced areas!<br><br>🌱 I'm currently learning: Advanced Deep Learning techniques for non-stationary financial data, practical applications of Reinforcement Learning in trading, and exploring the potential of new Alternative Data sources for market prediction.<br><br>💬 Ask me about: Quantitative finance, algorithmic trading strategy design, financial time series analysis, applying machine learning (Python, Scikit-learn, TensorFlow/Keras) to financial markets, portfolio optimization, or my experience as a freelance quant consultant.<br><br>⚡ Fun fact: I believe the perfect cup of coffee is a crucial (and often overlooked) component in debugging complex financial models!
 
-# 👤 Personal & Professional Overview
-# ═════════════════════════════════════
-name: Farhad Nazari
-tagline: "🚀 Fueling Financial Decisions with Data & Algorithms ✨"
-born: 1990 # 🎂
-current_status: "💼 Independent Quant & Algorithmic Trading Consultant" # 🌟
 
-# 🎓 Education & Foundational Knowledge
-# ══════════════════════════════════════
-education:
-  - degree: Master of Science 📜
-    field: Software Engineering 💻
-   
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Farhad Nazari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Farhad Nazari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad Nazari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📈 Professional Journey (Data Science Focus)
-# ═══════════════════════════════════════════
-professional_experience_summary:
-  role: Data Scientist (Specializing in Finance 💰)
-  duration: "2019 - Present ⏳"
-  focus: "🎯 Architecting quantitative models & algorithmic trading strategies through data science and software engineering."
+---
+[![](https://visitcount.itsvg.in/api?id=Farhad Nazari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🧠 Core Expertise & Passion Areas
-# ══════════════════════════════════
-fields_of_expertise:
-  - "📊 Quantitative Finance & Rigorous Analysis"
-  - "⚙️ Algorithmic Trading: Strategy Design, Development & Backtesting"
-  - "📈 Financial Time Series Analysis & Predictive Forecasting"
-  - "🤖 Machine Learning for Financial Markets (e.g., prediction, risk)"
-  - "💼 Portfolio Optimization & Advanced Risk Management"
-  - "🔬 Market Microstructure Insights"
-  - "💡 Data-Driven Investment Strategy Formulation"
-
-# 🛠️ Technical Arsenal & Toolkit
-# ══════════════════════════════
-technical_toolkit:
-  programming_languages:
-    - "🐍 Python (Pandas, NumPy, SciPy, Scikit-learn, TensorFlow/Keras, PyTorch)"
-    - "💾 SQL (for data querying & manipulation)"
-    - "📊 R (for specialized statistical modeling)"
-    # 
-  financial_tools_apis:
-    - "🔗 Financial Data APIs (e.g., Bloomberg, Refinitiv, IEX, Alpha Vantage)"
-    - "🏦 Trading Platforms & APIs (e.g., Interactive Brokers, QuantConnect, Alpaca)"
-    - "🔎 Backtesting Frameworks (e.g., Zipline, PyAlgoTrade, custom)"
-  data_tools_and_platforms:
-    - "📓 Jupyter Notebooks/Lab (for research & prototyping)"
-    - "🌿 Version Control (Git, GitHub/GitLab)"
-    - "☁️ Cloud Platforms (AWS, GCP, Azure - for scalable solutions)"
-    - "🗄️ Database Management (SQL & NoSQL)"
-    # - "🐘 Big Data Technologies (Spark, Hadoop - if applicable)"
-
-# 🚀 Current Explorations & Future Aspirations
-# ════════════════════════════════════════════
-currently_exploring:
-  - "🌌 Advanced Deep Learning for complex, non-stationary financial data"
-  - "🎮 Reinforcement Learning applications in dynamic trading environments"
-  - "📡 Alternative Data sources for uncovering new alpha signals"
-  - "⏱️ High-Frequency Trading (HFT) concepts and low-latency systems"
-
-professional_goals:
-  - "🏆 Engineer and deploy consistently profitable algorithmic trading systems."
-  - "🤝 Deliver exceptional quantitative solutions for freelance clients."
-  - "🌐 Contribute meaningfully to open-source projects in quantitative finance."
-  - "💡 Remain at the cutting-edge of AI and technology in the financial domain."
-
-# 💬 Let's Connect & Collaborate
-# ══════════════════════════════
-open_to_collaboration_on:
-  - "🧩 Bespoke algorithmic trading strategy development"
-  - "🔍 Quantitative research, model validation, and financial analytics"
-  - "📊 Financial data analysis and actionable insights generation"
-  - "🛠️ Building custom financial analytics tools and dashboards"
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
