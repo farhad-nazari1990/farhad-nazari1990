@@ -16,8 +16,7 @@ current_status: "💼 Independent Quant & Algorithmic Trading Consultant" # 🌟
 education:
   - degree: Master of Science 📜
     field: Software Engineering 💻
-    # institution: "[Your University Name]"
-    # graduation_year: "[YYYY]"
+   
 
 # 📈 Professional Journey (Data Science Focus)
 # ═══════════════════════════════════════════
@@ -44,7 +43,7 @@ technical_toolkit:
     - "🐍 Python (Pandas, NumPy, SciPy, Scikit-learn, TensorFlow/Keras, PyTorch)"
     - "💾 SQL (for data querying & manipulation)"
     - "📊 R (for specialized statistical modeling)"
-    # - "⚡ C++ (for high-performance applications - if applicable)"
+    # 
   financial_tools_apis:
     - "🔗 Financial Data APIs (e.g., Bloomberg, Refinitiv, IEX, Alpha Vantage)"
     - "🏦 Trading Platforms & APIs (e.g., Interactive Brokers, QuantConnect, Alpaca)"
