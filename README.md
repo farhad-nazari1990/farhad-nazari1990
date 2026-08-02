@@ -8,7 +8,7 @@
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-trustquant.io-1565C0?style=for-the-badge)](https://trustquant.io/demo)
 [![Website](https://img.shields.io/badge/🌐_Website-trustquant.io-0D1B4B?style=for-the-badge)](https://trustquant.io)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Farhad_nazari_dev)
 
 </div>
 
