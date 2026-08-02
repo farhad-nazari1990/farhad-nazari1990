@@ -1,15 +1,108 @@
-# 💫 Farhad Nazari- Quant & Data Scientist:
-About Me:<br><br>🔭 I'm currently working on: Developing and refining quantitative trading models and algorithmic strategies for financial markets. I'm also actively consulting on freelance quant projects.<br><br>👯 I'm looking to collaborate on: Bespoke algorithmic trading strategy development, quantitative research in finance, building data-driven financial analytics tools, and open-source projects in the quantitative finance space.<br><br>🤝 I'm looking for help with: Insights or resources on cutting-edge applications of reinforcement learning in dynamic trading environments and practical uses of alternative data for alpha generation. Always keen to learn from others in these advanced areas!<br><br>🌱 I'm currently learning: Advanced Deep Learning techniques for non-stationary financial data, practical applications of Reinforcement Learning in trading, and exploring the potential of new Alternative Data sources for market prediction.<br><br>💬 Ask me about: Quantitative finance, algorithmic trading strategy design, financial time series analysis, applying machine learning (Python, Scikit-learn, TensorFlow/Keras) to financial markets, portfolio optimization, or my experience as a freelance quant consultant.<br><br>⚡ Fun fact: I believe the perfect cup of coffee is a crucial (and often overlooked) component in debugging complex financial models!
+<div align="center">
 
+# 🛡️ Farhad Nazari
+### AI-Powered Crypto Risk Systems & DeFi Rescue
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Farhad Nazari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Farhad Nazari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad Nazari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**I build ML-driven risk systems for crypto markets — HMM regime detection, anomaly detection, and DeFi rescue.**
+**Async delivery · ETH/USDC payments · Written proposals, no calls required.**
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-trustquant.io-1565C0?style=for-the-badge)](https://trustquant.io/demo)
+[![Website](https://img.shields.io/badge/🌐_Website-trustquant.io-0D1B4B?style=for-the-badge)](https://trustquant.io)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Farhad Nazari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 What I Do
+
+I help crypto funds, DeFi protocols, and individual traders see risk **before** it costs them money. Regime shifts, silent anomalies, and broken smart contracts are predictable — most portfolios just aren't watching for them.
+
+```
+📊 Regime Detection      →  HMM-based bull/bear/high-vol classification
+🔍 Anomaly Detection     →  Isolation Forest + CUSUM for early warning
+🛠️ DeFi Rescue           →  Fixing broken dApps & smart contracts
+📈 Risk Monitoring       →  Portfolio-level decision systems
+```
+
+**Result from a recent system:** reduced maximum drawdown from **18.42% → 7.91%** while preserving **84.55%** of total return. [See the live dashboard →](https://trustquant.io/demo)
+
+---
+
+## 💼 Services & Pricing
+
+| Package | What You Get | Delivery | Price |
+|---|---|---|---|
+| **Crypto Risk Snapshot** | PDF risk report + anomaly flags + action items | 3 days | **$199** |
+| **DeFi Health Check** | Written smart contract & frontend review | 4 days | **$349** |
+| **Regime Detection Dashboard** | Interactive Plotly dashboard, live | 7 days | **$799** |
+| **AI Risk Monitoring System** | Full custom risk infrastructure | Scoped | **from $1,500** |
+
+💳 **Payment:** ETH (mainnet) · USDC (Polygon/Arbitrum) — on-chain, transparent, no middlemen.
+
+---
+
+## 🧠 Currently
+
+```yaml
+building:      AI risk monitoring dashboards for small DeFi protocols
+researching:   HMM regime-switching models for portfolio decisioning
+open_to:       DeFi rescue projects, quant risk consulting, DAO grants
+ask_me_about:  regime detection · anomaly detection · DeFi rescue · risk systems
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Core methods:** Hidden Markov Models · Isolation Forest · CUSUM Change-Point Detection · Portfolio Risk Engines
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![Crypto Risk Decision System](https://github-readme-stats.vercel.app/api/pin/?username=farhad-nazari1990&repo=Crypto-Risk-Detection&theme=dark&hide_border=true)](https://github.com/farhad-nazari1990/Crypto-Risk-Detection)
+[![Regime Detection](https://github-readme-stats.vercel.app/api/pin/?username=farhad-nazari1990&repo=crypto-regime-detection&theme=dark&hide_border=true)](https://github.com/farhad-nazari1990/crypto-regime-detection)
+
+[![Anomaly Detection](https://github-readme-stats.vercel.app/api/pin/?username=farhad-nazari1990&repo=Bitcoin-Anomaly-Detection-System&theme=dark&hide_border=true)](https://github.com/farhad-nazari1990/Bitcoin-Anomaly-Detection-System)
+[![DeFi Rescue Case Study](https://github-readme-stats.vercel.app/api/pin/?username=farhad-nazari1990&repo=TokenVault-Broken-dApp-Fix-Case-Study&theme=dark&hide_border=true)](https://github.com/farhad-nazari1990/TokenVault-Broken-dApp-Fix-Case-Study)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Farhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhad-nazari1990&show_icons=true&theme=dark&hide_border=true&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhad-nazari1990&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📬 Let's Talk About Your Risk
+
+**Written proposal in 24h · No calls required · [trustquant.io](https://trustquant.io)**
+
+<sub>Proudly async-first 🌍</sub>
+
+</div>
