@@ -6,8 +6,8 @@
 **I build ML-driven risk systems for crypto markets — HMM regime detection, anomaly detection, and DeFi rescue.**
 **Async delivery · ETH/USDC payments · Written proposals, no calls required.**
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-trustquant.io-1565C0?style=for-the-badge)](https://trustquant.io/demo)
-[![Website](https://img.shields.io/badge/🌐_Website-trustquant.io-0D1B4B?style=for-the-badge)](https://trustquant.io)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-trustquant.io-1565C0?style=for-the-badge)](https://farhadnazari.dev/demo)
+[![Website](https://img.shields.io/badge/🌐_Website-https://farhadnazari.dev/-0D1B4B?style=for-the-badge)](https://farhadnazari.dev/)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Farhad_nazari_dev)
 
 </div>
